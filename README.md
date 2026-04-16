@@ -32,7 +32,7 @@
 | ![建筑照片](https://img.sipingseo.com/file/ps-extract-lineart/mSbXWod1.webp) | ![建筑线稿](https://img.sipingseo.com/file/ps-extract-lineart/27Ifyz8s.webp) |
 
 ### 3. 动漫插画轮廓优化
-保留角色动态与服装褶皱，生成的线条粗细变化自然，适合二次创作。
+保留角色动态与服装褶皱，生成的线条粗细变化自然，适合二次创作
 | 原始插画 | AI 动漫线稿 |
 | :--- | :--- |
 | ![动漫插画](https://img.sipingseo.com/file/ps-extract-lineart/UQ5sqrw6.webp) | ![动漫线稿](https://img.sipingseo.com/file/ps-extract-lineart/lvLo4LFi.webp) |
