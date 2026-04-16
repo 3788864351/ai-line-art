@@ -20,7 +20,7 @@
 ## 📸 精彩效果展示 (Before & After)
 
 ### 1. 人物照片提取线稿
-精准识别五官比例与发丝轮廓，生成线条闭合、极易上色的专业底稿。
+精准识别五官比例与发丝轮廓，生成线条闭合、极易上色的专业底稿
 | 原始照片 | AI 提取线稿 |
 | :--- | :--- |
 | ![人物照片](https://img.sipingseo.com/file/ps-extract-lineart/FYGCnO3z.webp) | ![人物线稿](https://img.sipingseo.com/file/ps-extract-lineart/dALSuNfW.webp) |
