@@ -26,7 +26,7 @@
 | ![人物照片](https://img.sipingseo.com/file/ps-extract-lineart/FYGCnO3z.webp) | ![人物线稿](https://img.sipingseo.com/file/ps-extract-lineart/dALSuNfW.webp) |
 
 ### 2. 建筑/风景透视提取
-提炼建筑主体结构，过滤杂乱背景，重现清晰的透视线条。
+提炼建筑主体结构，过滤杂乱背景，重现清晰的透视线条
 | 原始照片 | AI 建筑线稿 |
 | :--- | :--- |
 | ![建筑照片](https://img.sipingseo.com/file/ps-extract-lineart/mSbXWod1.webp) | ![建筑线稿](https://img.sipingseo.com/file/ps-extract-lineart/27Ifyz8s.webp) |
